@@ -14,6 +14,12 @@ This is my first brach edit!
 
 </header>
 
+## About Me / 关于我
+
+📄 **[View My Resume / 查看简历](RESUME.md)** - Learn more about my skills and experience with GitHub!
+
+---
+
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
